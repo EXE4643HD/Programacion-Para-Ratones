@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "experimentalDecorators": true, // <-- Esto habilita los decoradores
+    "emitDecoratorMetadata": true   // <-- Esto permite leer metadatos de tipos
+  }
+}
